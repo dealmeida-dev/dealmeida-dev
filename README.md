@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dealmeida-dev
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS & JS
 - 💞️ I’m looking to collaborate on learning and improving.
 - 📫 How to reach me dealmeida.dev@gmail.com
 
