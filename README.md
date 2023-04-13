@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealmeida-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dealmeida-dev" /> </p>
 
-- 🔭 I’m currently working on [Voltox](https://voltox.ch/)
+- 🔭 I’m currently working at [Voltox](https://voltox.ch/)
 
-- 🌱 I’m currently learning **Tailwind & React**
+- 🌱 I’m currently learning **React & mui**
 
 - 👨‍💻 All of my projects are available at [https://dealmeida.dev/](https://dealmeida.dev/)
 
